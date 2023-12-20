@@ -1,0 +1,1 @@
+Repositori de bir degisiklik var jenkins tarafindan otomatik calisacaktir
