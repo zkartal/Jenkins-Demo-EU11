@@ -1,0 +1,1 @@
+Bu kodun push edilmesiyle birlikte jenkins Github-Webhook-EU11 otomatik olarak calisacaktir.
